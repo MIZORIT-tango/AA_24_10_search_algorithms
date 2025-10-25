@@ -89,7 +89,7 @@ int main() {
 
     // ¬ходные датасеты, сюда вставл€ть 0)название файла 1)путь к файлу 2)target
     vector<TextSearchTest> tests = {
-        //{"test", "test_data/test.txt", "anything"},
+        //{"test", "datasets/test.txt", "anything"},
     };
 
     for (const auto& test : tests) {
