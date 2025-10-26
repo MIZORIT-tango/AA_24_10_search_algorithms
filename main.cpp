@@ -8,6 +8,7 @@
 #include <algorithm>
 #include "search_race.h"
 #include "utils.h"
+#include "algorithms/boyer_moore_by_Mova.h"
 
 
 //#include "algorithms/kmp_search_by_author.h"
@@ -58,7 +59,7 @@ void Run(string method_name, WordSearcher searcher, const TextSearchTest& test) 
     oss << method_name << "\t"
         << (result.found ? "true" : "false") << "\t"
         << indices_str << "\t"
-        << time_ms << "mcs" << "\t"
+        << time_us << "mcs" << "\t"
         << (is_correct ? "CORRECT" : "WRONG");
 
     results_by_dataset[test.dataset_name].push_back(oss.str());
@@ -87,8 +88,9 @@ int main() {
 
     utils::createDirectory("results");
 
-    // ¬ходные датасеты, сюда вставл€ть 0)название файла 1)путь к файлу 2)target
+    // ??????? ????????, ???? ????????? 0)???????? ????? 1)???? ? ????? 2)target
     vector<TextSearchTest> tests = {
+        {"test1", "datasets/test1.txt", "test"},
         //{"test", "test_data/test.txt", "anything"},
     };
 
@@ -96,7 +98,7 @@ int main() {
         cout << "\nTesting dataset: " << test.dataset_name << endl;
         cout << "File: " << test.file_path << endl;
         cout << "Target word: '" << test.target_word << "'" << endl;
-
+        RUN(boyer_moore_search);
         //RUN(kmp_search_by_author);
     }
 
