@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <vector>
 #include <chrono>
 #include <string>
@@ -8,6 +8,7 @@
 #include <algorithm>
 #include "search_race.h"
 #include "utils.h"
+#include "algorithms/rabina_karpa_by_Avadaev.h"
 
 
 //#include "algorithms/kmp_search_by_author.h"
@@ -89,6 +90,7 @@ int main() {
 
     // Âõîäíûå äàòàñåòû, ñþäà âñòàâëÿòü 0)íàçâàíèå ôàéëà 1)ïóòü ê ôàéëó 2)target
     vector<TextSearchTest> tests = {
+        {"test1", "datasets/test1.txt", "test"},
         //{"test", "test_data/test.txt", "anything"},
     };
 
@@ -96,7 +98,7 @@ int main() {
         cout << "\nTesting dataset: " << test.dataset_name << endl;
         cout << "File: " << test.file_path << endl;
         cout << "Target word: '" << test.target_word << "'" << endl;
-
+        RUN(rabin_karp_search);
         //RUN(kmp_search_by_author);
     }
 
