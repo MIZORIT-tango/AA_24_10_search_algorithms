@@ -90,7 +90,7 @@ int main() {
 
     // Âõîäíûå äàòàñåòû, ñþäà âñòàâëÿòü 0)íàçâàíèå ôàéëà 1)ïóòü ê ôàéëó 2)target
     vector<TextSearchTest> tests = {
-        //{"test", "test_data/test.txt", "anything"},
+        {"test3", "datasets/test3.txt", "test"},
     };
 
     for (const auto& test : tests) {
