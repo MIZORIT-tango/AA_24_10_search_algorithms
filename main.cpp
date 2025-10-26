@@ -58,7 +58,7 @@ void Run(string method_name, WordSearcher searcher, const TextSearchTest& test) 
     oss << method_name << "\t"
         << (result.found ? "true" : "false") << "\t"
         << indices_str << "\t"
-        << time_ms << "mcs" << "\t"
+        << time_us << "mcs" << "\t"
         << (is_correct ? "CORRECT" : "WRONG");
 
     results_by_dataset[test.dataset_name].push_back(oss.str());
@@ -87,7 +87,7 @@ int main() {
 
     utils::createDirectory("results");
 
-    // Âõîäíûå äàòàñåòû, ñþäà âñòàâëÿòü 0)íàçâàíèå ôàéëà 1)ïóòü ê ôàéëó 2)target
+    // Ã‚ÃµÃ®Ã¤Ã­Ã»Ã¥ Ã¤Ã Ã²Ã Ã±Ã¥Ã²Ã», Ã±Ã¾Ã¤Ã  Ã¢Ã±Ã²Ã Ã¢Ã«Ã¿Ã²Ã¼ 0)Ã­Ã Ã§Ã¢Ã Ã­Ã¨Ã¥ Ã´Ã Ã©Ã«Ã  1)Ã¯Ã³Ã²Ã¼ Ãª Ã´Ã Ã©Ã«Ã³ 2)target
     vector<TextSearchTest> tests = {
         //{"test", "test_data/test.txt", "anything"},
     };
