@@ -10,7 +10,7 @@
 #include "utils.h"
 #include "algorithms/rabina_karpa_by_Avadaev.h"
 
-
+//include your algorithm here, for example:
 //#include "algorithms/kmp_search_by_author.h"
 
 
@@ -88,7 +88,7 @@ int main() {
 
     utils::createDirectory("results");
 
-    // Âõîäíûå äàòàñåòû, ñþäà âñòàâëÿòü 0)íàçâàíèå ôàéëà 1)ïóòü ê ôàéëó 2)target
+    // add datasets files here, structure: 0)name_file 1)path_to_file 2)target
     vector<TextSearchTest> tests = {
         {"test1", "datasets/test1.txt", "test"},
         //{"test", "test_data/test.txt", "anything"},
@@ -98,7 +98,7 @@ int main() {
         cout << "\nTesting dataset: " << test.dataset_name << endl;
         cout << "File: " << test.file_path << endl;
         cout << "Target word: '" << test.target_word << "'" << endl;
-        RUN(rabin_karp_search);
+        RUN(rabin_karp_by_Avadaev);
         //RUN(kmp_search_by_author);
     }
 
