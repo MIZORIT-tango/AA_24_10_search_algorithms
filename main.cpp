@@ -9,6 +9,7 @@
 #include "search_race.h"
 #include "utils.h"
 
+#include "algorithms/KMP_Algorithm.h"
 
 //#include "algorithms/kmp_search_by_author.h"
 
@@ -97,7 +98,7 @@ int main() {
         cout << "File: " << test.file_path << endl;
         cout << "Target word: '" << test.target_word << "'" << endl;
 
-        //RUN(kmp_search_by_author);
+        RUN(knuth_morris_pratt_search);
     }
 
     saveResults();
