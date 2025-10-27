@@ -1,0 +1,3 @@
+Algorithm	Found	Indices	Time	Status
+==============================================
+knuth_morris_pratt_search	true	[10, 38]	189mcs	CORRECT

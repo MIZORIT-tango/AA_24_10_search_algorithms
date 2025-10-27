@@ -1,0 +1,3 @@
+This is a test file for KMP algorithm testing.
+ABC pattern should be found at certain positions.
+ABC again ABC and one more ABC.
