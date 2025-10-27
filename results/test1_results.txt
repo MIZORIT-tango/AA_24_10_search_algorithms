@@ -1,3 +1,0 @@
-Algorithm	Found	Indices	Time	Status
-==============================================
-boyer_moore_search	true	[10, 46]	183mcs	CORRECT
