@@ -5,7 +5,7 @@
 #include <string>
 #include <algorithm>
 
-SearchResult boyer_moore_search(const std::string& file_path,
+SearchResult boyer_moore_by_Mova(const std::string& file_path,
     const std::string& target_word) {
 
     SearchResult result;

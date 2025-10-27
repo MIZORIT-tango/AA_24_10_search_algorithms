@@ -25,7 +25,7 @@ std::vector<int> computePrefixFunction(const std::string& pattern) {
     return pi;
 }
 
-SearchResult knuth_morris_pratt_search(const std::string& file_path,
+SearchResult KMP_by_myagkov(const std::string& file_path,
     const std::string& target_word) {
 
     SearchResult result;

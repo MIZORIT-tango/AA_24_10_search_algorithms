@@ -5,7 +5,7 @@
 #include <string>
 #include <algorithm>
 
-SearchResult rabin_karp_search(const std::string& file_path,
+SearchResult rabina_karpa_by_Avadaev(const std::string& file_path,
     const std::string& target_word) {
 
     SearchResult result;

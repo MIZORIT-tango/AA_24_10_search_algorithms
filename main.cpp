@@ -8,7 +8,10 @@
 #include <algorithm>
 #include "search_race.h"
 #include "utils.h"
+
 #include "algorithms/rabina_karpa_by_Avadaev.h"
+#include "algorithms/KMP_by_myagkov.h"
+#include "algorithms/boyer_moore_by_Mova.h"
 
 //include your algorithm here, for example:
 //#include "algorithms/kmp_search_by_author.h"
@@ -98,7 +101,9 @@ int main() {
         cout << "\nTesting dataset: " << test.dataset_name << endl;
         cout << "File: " << test.file_path << endl;
         cout << "Target word: '" << test.target_word << "'" << endl;
-        RUN(rabin_karp_by_Avadaev);
+        RUN(rabina_karpa_by_Avadaev);
+        RUN(KMP_by_myagkov)
+        RUN(boyer_moore_by_Mova)
         //RUN(kmp_search_by_author);
     }
 
