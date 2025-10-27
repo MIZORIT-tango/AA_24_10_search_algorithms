@@ -5,6 +5,7 @@
 #include <string>
 #include <algorithm>
 #include <climits>
+#include <cctype>
 
 inline int levenshtein_distance(const std::string& str1, const std::string& str2) {
     int m = str1.length();
@@ -34,7 +35,7 @@ inline int levenshtein_distance(const std::string& str1, const std::string& str2
     return dp[m][n];
 }
 
-SearchResult fuzzy_levenshtein(const std::string& file_path,
+inline SearchResult Fuzzy_search_by_Zakrevskiy(const std::string& file_path,
     const std::string& target_word) {
 
     SearchResult result;
@@ -46,41 +47,28 @@ SearchResult fuzzy_levenshtein(const std::string& file_path,
         return result;
     }
 
-    std::vector<std::string> words;
-    std::string current_word;
+    int target_len = target_word.length();
 
-    for (char c : text) {
-        if (std::isalpha(c) || std::isdigit(c)) {
-            current_word += c;
-        }
-        else {
-            if (!current_word.empty()) {
-                words.push_back(current_word);
-                current_word.clear();
-            }
-        }
-    }
-
-    if (!current_word.empty()) {
-        words.push_back(current_word);
+    if (text.length() < target_len) {
+        return result;
     }
 
     int min_distance = INT_MAX;
-    std::string best_match;
-    size_t best_index = 0;
+    int best_position = -1;
 
-    for (size_t i = 0; i < words.size(); i++) {
-        int distance = levenshtein_distance(target_word, words[i]);
+    for (size_t i = 0; i <= text.length() - target_len; i++) {
+        std::string substring = text.substr(i, target_len);
+        int distance = levenshtein_distance(target_word, substring);
+
         if (distance < min_distance) {
             min_distance = distance;
-            best_match = words[i];
-            best_index = i;
+            best_position = static_cast<int>(i);
         }
     }
 
-    if (min_distance <= 3) { // схожесть по умолчанию 3 символа
+    if (min_distance <= 1) {
         result.found = true;
-        result.indices.push_back(best_index);
+        result.indices.push_back(best_position);
     }
 
     return result;
