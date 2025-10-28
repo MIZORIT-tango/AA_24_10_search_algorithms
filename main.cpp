@@ -12,6 +12,7 @@
 #include "algorithms/rabina_karpa_by_Avadaev.h"
 #include "algorithms/KMP_by_myagkov.h"
 #include "algorithms/boyer_moore_by_Mova.h"
+#include "algorithms/Fuzzy_search_by_Zakrevskiy.h"
 
 //include your algorithm here, for example:
 //#include "algorithms/kmp_search_by_author.h"
@@ -104,6 +105,7 @@ int main() {
         RUN(rabina_karpa_by_Avadaev);
         RUN(KMP_by_myagkov)
         RUN(boyer_moore_by_Mova)
+        RUN(Fuzzy_search_by_Zakrevskiy)
         //RUN(kmp_search_by_author);
     }
 
