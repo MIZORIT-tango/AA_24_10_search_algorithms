@@ -13,6 +13,7 @@
 #include "algorithms/KMP_by_myagkov.h"
 #include "algorithms/boyer_moore_by_Mova.h"
 #include "algorithms/Fuzzy_search_by_Zakrevskiy.h"
+#include "algorithms/sequential_search_by_Litvinov.h"
 
 //include your algorithm here, for example:
 //#include "algorithms/kmp_search_by_author.h"
@@ -94,8 +95,11 @@ int main() {
 
     // add datasets files here, structure: 0)name_file 1)path_to_file 2)target
     vector<TextSearchTest> tests = {
-        {"test1", "datasets/test1.txt", "test"},
-        //{"test", "test_data/test.txt", "anything"},
+        {"small", "datasets/small.txt", "dog"},
+        {"book1", "datasets/book1.txt", "scripts"},
+        {"book2", "datasets/book2.txt", "headlights"},
+        {"book3", "datasets/book3.txt", "compartment"},
+        {"book4", "datasets/book4.txt", "compartment"}
     };
 
     for (const auto& test : tests) {
@@ -106,7 +110,7 @@ int main() {
         RUN(KMP_by_myagkov)
         RUN(boyer_moore_by_Mova)
         RUN(Fuzzy_search_by_Zakrevskiy)
-        //RUN(kmp_search_by_author);
+        RUN(sequential_search_by_Litvinov);
     }
 
     saveResults();

@@ -1,0 +1,528 @@
+
+
+
+ Orson Scott Card
+ Ender's Game
+
+ For Geoffrey,
+ who makes me remember
+ how young and how old
+ children can be
+   
+       Acknowledgments  
+ Portions of this book were recounted in my first published science fiction story, "Ender's Game," in the August 1977  Analog,  edited by Ben Boya; his faith in me and this story are the foundation of my career.
+ Harriet McDougal of Tor is that rarest of editors--one who understands a story and can help the author make it exactly what he meant it to be.  They don't pay her enough.  Harriet's task was made more than a little easier, however, because of the excellent work of my resident editor, Kristine Card. I don't pay her enough, either.
+ I am grateful also to Barbara Boya, who has been my friend and agent through thin and, sometimes, thick; and to Tom Doherty, my publishers who let me talk him into doing this book at the ABA in Dallas, which shows either his' superb judgment or how weary one can get at a convention.
+
+
+
+
+        Introduction
+
+
+ It makes me a little uncomfortable, writing an introduction to  Ender's Game.   After all, the book has been in print for six years now, and in all that time, nobody has ever written to me to say, "You know,  Ender's Game  was a pretty good book, but you know what it really needs?  An introduction!" And yet when a novel goes back to print for a new hardcover edition, there ought to be  something  new in it to mark the occasion (something besides the minor changes as I fix the errors and internal contradictions and stylistic excesses that have bothered me ever since the novel first appeared).  So be assured-the novel stands on its own, and if you skip this intro and go straight to the story, I not only won't stand in your way, I'll even  agree  with you!
+ The novelet "Ender's Game" was my first published science fiction.  It was based on an idea--the Battle Room--that came to me when I6 was sixteen years old. I had just read Isaac Asimov's  Foundation tr ilogy, which was (more or less) an extrapolation of the ideas in Gibbon's  Decline and Fall of the Roman Empire,  applied to a galaxy-wide empire in some far future time.
+ The novel set me, not to dreaming, but to  thinking,  which is Asimov's most extraordinary ability as a fiction writer.  What  would  the future be like?  How would things change?  What would remain the same?  The premise of  Foundation  seemed to be that even though you might change the props and the actors, the play of human history is always the same.  And yet that fundamentally pessimistic premise (you mean we'll  never  change?) was tempered by Asimov's idea of a group of human beings who, not through genetic change, but through learned skills, are able to understand and heal the minds of other people.
+ It was an idea that rang true with me, perhaps in part because of my Mormon upbringing and beliefs: Human beings may be miserable specimens, in the main, but we  can  learn, and, through learning, become decent people.
+ Those were some of the ideas that played through my mind as I read  Foundation,  curled on my bed--a thin mattress on a slab of plywood, a bed my father had made for me--in my basement bedroom in our little rambler on 650 East in Orem, Utah.  And then, as so many science fiction readers have done over the years, I felt a strong desire to write stories that would do for others what Asimov's story had done for me.
+ In other genres, that desire is usually expressed by producing thinly veiled rewrites of the great work: Tolkien's disciples far too often simply rewrite Tolkien, for example.  In science fiction, however, the whole point is that the ideas are fresh and startling and intriguing; you imitate the great ones, not by rewriting their stories, but. rather by creating stories that are just as startling and new.
+ But new in what way?  Asimov was a scientist, and approached every field of human knowledge in a scientific manner--assimilating data, combining it in new and startling ways, thinking through the implications of each new idea. I was no scientist, and unlikely ever to be one, at least not a  real  scientist--not a physicist, not a chemist, not a biologist, not even an engineer. I had no gift for mathematics and no great love for it, either.  Though I relished the study of logic and languages, and virtually inhaled histories and biographies, it never occurred to me at the time that these were just as valid sources of science fiction stories as astronomy or quantum mechanics'
+ How, then, could I possibly conic up with a science fiction idea?  What. did  I  actually know about anything?
+ At that time my older brother Bill was in the army, stationed at Fort Douglas in Salt Lake City; he was nursing a hip-to-heel cast from a bike-riding accident, however, and came home on weekends. It was then that he had met his future wife, Laura Dene Low, while attending a church meeting on the BYU campus; and it was Laura who gave me  Foundation  to read.  Perhaps, then, it was natural for my thoughts to turn to things military.
+ To me, though, the military didn't mean the Vietnam War, which was then nearing its peak of American involvement. I had no experience of that, except for Bill's stories of the miserable life in basic training, the humiliation of officer's candidate school, and his lonely but in many ways successful life as a noncom in Korea.  Far more deeply rooted in my mind was my experience, five or six years earlier, of reading Bruce Catton's three-volume  Army of the  Potomac.  I remembered so well the stories of the commanders in that war--the struggle to find a Union general capable of using McClellan's magnificent army to defeat Lee and Jackson and Stuart, and then, finally, Grant, who brought death to far too many of his soldiers, but also made their deaths mean something, by grinding away at Lee, keeping him from dancing and maneuvering out of reach.  It was because of Catton's history that I had stopped enjoying chess, and had to revise the rules of  Risk  in order to play it--I had come to understand something of war, and not just because of the conclusions Catton himself had reached. I found meanings of my own in that history.
+ I learned that history is shaped by the use of power, and that different people, leading the same army, with, therefore, approximately the same power, applied it so differently that the army seemed to change from a pack of noble fools at Fredericksburg to panicked cowards melting away at Chancellorsville, then to the grimly determined, stubborn soldiers who held the ridges at Gettysburg, and then, finally, to the disciplined, professional army that ground Lee to dust in Grant's long campaign.  It wasn't the soldiers who changed.  It was the leader.  And even though I could not then have articulated what I understood of military leadership, I knew that I  did  understand it. I understood, at levels deeper than speech, how a great military leader imposes his will on his enemy, and makes his own army a willing extension of himself.
+ So one morning, as my Dad drove me to Brigham Young High School along Carterville Road in the heavily wooded bottoms of the Provo River, I wondered: How would you train soldiers for combat in the future?  I didn't bother thinking of new land-based weapons systems--what was on my mind, after  Foundation,  was space.  Soldiers and commanders would have to think very differently in space, because the old ideas of up and down simply wouldn't apply anymore. I had read in Nordhoffs and Hall's history of World War I flying that it was very hard at first for new pilots to learn to look above and below them rather than merely to the right and left, to find the enemy approaching them in the air.  How much worse, then, would it be to learn to think with no up and down at all?
+ The essence of training is to allow error without consequence.  Three-dimensional warfare would need to be practiced in an enclosed space, so mistakes wouldn't send trainees flying off to Jupiter.  It would need to offer a way to practice shooting without risk of injury; and yet trainees who were "hit" would need to be disabled, at least temporarily.  The environment would need to be changeable, to simulate the different conditions of warfare--near a ship, in the midst of debris, near tiny asteroids.  And it would need to have some of the confusion of real battle, so that the play-combat didn't evolve into something as rigid and formal as the meaningless marching and maneuvers that still waste an astonishing amount of a trainee's precious hours in basic training in our modem military.
+ The result of my speculations that morning was the Battle Room, exactly as you will see it (or have already seen it) in this book.  It was a good idea, and something like it will certainly be used for training if ever there is a manned military in space. (Something very much like it has already been used in various amusement halls throughout America.)
+ But, having thought of the Battle Room, I hadn't the faintest idea of how to go about turning the idea into a story.  It occurred to me then for the first time that the  idea  of the story is nothing compared to the importance of knowing how to find a character and a story to tell around that idea. Asimov, having had the idea of paralleling  The Decline and  Fall , still had no story; his genius--and the soul of the story--came when he personalized his history, making the psychohistorian Hari Seldon the god-figure, the planmaker, the apocalyptic prophet of the story. I had no such character, and no idea of how to make one.
+ Years passed. I graduated from high school as a junior (just in time--Brigham Young High School was discontinued with the class of 1968) and went on to Brigham Young University. I started there as an archaeology major, but quickly discovered that doing archaeology is unspeakably boring compared to reading die books by Thor Heyerdahl  (Aku-Aku, Kon-Tiki),  Yigael Yadin  (Masada),  and James Michener  (The Source) that  had set me dreaming. Potsherds!  Better to be a  dentist  thanto spend your life trying to put together fragments of old pottery in endless desert landscapes in the Middle East.
+ By the time I realized that not even the semi-science of archaeology was for someone as impatient as me, I was already immersed in my real career.  At the time, of course, I misunderstood myself: I thought I was in theatre because I loved performing.  And I  do  love performing don't get me wrong.  Give me an audience and I'll hold onto them as long as I can, on any subject.  But I'm not a good actor, and theatre was not to be my career.  At the time, though, all I cared about was doing plays.  Directing them.  Building sets. and making costumes and putting on makeup for them.
+ And, above all,  rewriting  those  lousy  scripts. I kept thinking, Why couldn't the playwright hear how dull that speech was?  This scene could so easily be punched up and made far more effective.
+ Then I tried my hand at writing adaptations of novels for a reader's theatre class, and my fate was sealed. I was a playwright.
+ People came to my plays and clapped at the end. I learned--from actors and from audiences--how to shape a scene, how to build tension, and--above all--the necessity of being harsh with your own material, excising or rewriting anything that doesn't work. I learned to separate the  story  from the  writing,  probably the most important thing that any storyteller has to learn--that there are a thousand right ways to tell a story, and ten million wrong ones, and you're a lot more likely to find one of the latter than the former your first time through the tale.
+ My love of theatre lasted through my mission for the LDS Church.  Even while I was in São Paulo, Brazil, as a missionary, I wrote a play called  Stone Tables  about the relationship between Moses and Aaron in the book of Exodus, which had standing-room-only audiences at its premiere (which I didn't attend, since I was still in Brazil!).
+ At the same time, though, that original impetus to write science fiction persisted.
+ I had taken fiction writing courses at college, for which I don't think I ever wrote science fiction.  But on the side, I had started a series of stories about people with psionic powers (I had no idea this was a sci-fi cliché at the time) that eventually grew into  The Worthing Saga. I  had even sent one of the stories off to  Analog  magazine before my mission, and on my mission I wrote several long stories in the same series (as well as a couple of stabs at mainstream stories).
+ In all that time, the Battle Room remained an idea in the back of my mind.  It wasn't until 1975, though, that I dusted it off and tried to write it. By then I had started a theatre company that managed to do reasonably well during the first summer and then collapsed under the weight of bad luck and bad management (myself) during the fall and Winter. I was deeply in debt on the pathetic salary of an editor at BYU Press.  Writing was the only thing I knew how to do  besides  proofreading and editing.  It was time to get serious about writing something that might actually earn some money--and, plainly, playwriting wasn't going to be it.
+ I first rewrote and sent out "Tinker," the first Worthing story I wrote and the one that was still most effective. I got a rejection letter from Ben Bova at  Analog,  pointing out that "Tinker" simply didn't feel like science fiction--it felt like fantasy.  So the Worthing stories were out for the time being.
+ What was left?  The old Battle Room idea.  It happened one spring day that a friend of mine, Tammy Mikkelson, was taking her boss's children to the circus in Salt Lake City; would I like to come along?  I would.  And since there was no ticket for me (and I've always detested the circus anyway--the clowns drive me up a wall), I spent the hours of the performance out on the lawn of the Salt Palace with a notebook on my lap, writing "Ender's Game" as I had written all my plays, in longhand on narrow-ruled paper. "Remember," said Ender.  "The enemy's gate is  down. "
+ Maybe it was because of the children in the car on the way up that I decided that the trainees in the Battle Room were so young.  Maybe it was because I, barely an adolescent myself, understood only childhood well enough to write about it.  Or maybe it was because of something that impressed me in Catton's  Army of the Potomac:  that the soldiers were all so young and innocent. That they shot and bayoneted the enemy, and then slipped across the neutral ground between armies to trade tobacco, jokes, liquor, and food.  Even though it was a deadly game, and the suffering and fear were terrible and real, it was still a game played by children, not all that different from the wargames my brothers and I had played, firing water-filled squirt bottles at each other.
+ "Ender's Game" was written and sold.  I knew it was a strong story because  I  cared about it and believed in it.  I had no idea that it would have the effect it had on the science fiction audience.  While most people ignored it, of course, and continue to live full and happy lives without reading it or anything else by me, there was still a surprisingly large group who responded to the story with some fervency.
+ Ignored on the Nebula ballot.  "Ender's Game" got onto the Hugo ballot and came in second.  More to the point, I, was awarded the John W. Campbell Award for best new writer.  Without doubt, "Ender's Game" wasn't just my first sale--it was the launching pad of my career.
+ The same story did it again in 1985, when I rewrote it at novel length--the book, now slightly revised, that you are holding in your hands.  At that point I thought of  Ender's  Game,  the novel, existing only to set up the much more powerful (I thought) story of  Speaker for the Dead.   But when I finished the novel, I knew that the story had new strength. I had learned a great deal, about life and about writing, in the decade since I wrote the novelet, and it came together for the first time in this book.  Again the audience was kind to me: the Nebula and Hugo awards, foreign translations, and strong, steady sales that, for the first time in my career, actually earned out my advance and allowed me to receive royalties.
+ But it wasn't just a matter of having a quiet little cult novel that brought in a steady income. There was something more to the way that people responded to  Ender's Game. 
+ For one thing, the people that hated it  really  hated it.  The attacks on the novel--and on me—were astonishing. Some of it I expected--I have a master's degree in literature, and in writing  Ender's Game  I deliberately avoided all the little literary games and gimmicks that make "fine" writing so impenetrable to the general audience.  All the layers of meaning are there to be decoded, if you like to play the game of literary criticism--but if you don't care to play that game, that's fine with me. I designed  Ender's Game  to be as clear and accessible as any story of mine could possibly be.  My goal was that the reader wouldn't have to be trained in literature or even in science fiction to receive the tale in its simplest, purest form.  And, since a great many writers and critics have based their entire careers on the premise that anything that the general public can understand without mediation is worthless drivel, it is not surprising that they found my little novel to be despicable.  If everybody came to agree that stories should be told this clearly, the professors of literature would be out of a job, and the writers of obscure, encoded fiction would be, not honored, but pitied for their impenetrability.
+ For some people, however, the loathing for  Ender's Game  transcended mere artistic argument.  I recall a letter to the editor of  Isaac Asimov's Science Fiction Magazine,  in which a woman who worked as a guidance counselor for gifted children re ported that she had only picked up  Ender's Game  to read it because her son had kept telling her it was a wonderful book.  She read it and loathed it.  Of course, I wondered what kind of guidance counselor would hold her son's tastes up to public ridicule, but the criticism that left me most flabbergasted was her assertion that my depiction of gifted children was hopelessly unrealistic.  They just don't talk like that, she said.  The don't  think  like that.
+ And it wasn't just her.  There have been others with that criticism.  Thus I began to realize that, as it is,  Ender's Game  disturbs some people because it challenges their assumptions about reality.  In fact, the novel's very clarity may make it  more  challenging, simply because the story's vision of the world is so relentlessly plain.  It was important to her, and to others, to believe that children don't actually think or speak the way the children in  Ender's Game  think and speak.
+ Yet I knew--I  knew --that this was one of the truest things about  Ender's Game.   In fact, I realized in retrospect that this may indeed be part of the reason why it was so important to me, there on the lawn in front of the Salt Palace, to write a story in which gifted children are trained to fight in adult wars.  Because never in my entire childhood did I feel like a child. I felt like a person all along--the same person that I am today.  I never felt that I spoke childishly. I never felt that my emotions and desires were somehow less real than adult emotions and desires.  And in writing  Ender's  Game, I forced  the audience to experience the lives of these children from that perspective--the perspective in which their feelings and decisions are just as real and important as any adult's.
+ The nasty side of myself wanted to answer that guidance counselor by saying, The only reason you don't think gifted children talk this way is because they know better than to talk this way in front of  you . But the truer answer is that  Ender's Game  asserts the personhood of children, and those who are used to thinking of children in another way--especially those whose whole career is based on that--are going to find  Ender's Game  a very unpleasant place to live.
+ Children are a perpetual, self-renewing underclass, helpless to escape from the decisions of adults until they become adults themselves. And  Ender's Game,   seen in that context, might even be a sort of revolutionary tract.
+ Because the book  does ring  true with the children who read it.  The highest praise I ever received for a book of mine was when the school librarian at Farrer Junior High in Provo, Utah, told me, "You know,  Ender's Game  is our most-lost book."
+ And then there are the letters.  This one, for instance, which I received in March of 1991:
+ Dear Mr. Card,
+ I am writing to you on behalf of myself and my twelve friends and fellow students who joined me at a two-week residential program for gifted and talented students at Purdue University this summer.  We attended the class, "Philosophy and Science Fiction," instructed by Peter Robinson, and we range in age from thirteen through fifteen.
+ We are all in about the same position; we are very intellectually oriented and have found few people at home who share this trait.  Hence. most of us are lonely, and have been since kindergarten.  When teachers continually compliment you, your chances of "fitting in" are about nil.
+ All our lives we've unconsciously been living by the philosophy "The only way to gain respect is doing so well you can't be ignored." And, for me and Mike, at least.  "beating the system" at school is how we've chosen to do this.  Both Mike and I plan to be in calculus our second year of high school, schedules permitting. ( Both of us are interested in science/math related careers.) Not to get me wrong; we're all bright and at the top of our class.  However, in choosing these paths, most of us have wound up satisfied in ourselves, but very lonely.
+ This is why  Ender's Game and Speaker for the  Dead  really hit home for us.  These books were our "texts" for the class.  We would read one hundred to two hundred pages per night and then discuss them (and other short stories and essays) during the day.  At Purdue, it wasn't a "classroom" discussion, however. It was a group of friends talking about how their feelings and philosophies corresponded to .or differed from the books'.
+ You couldn't  imagine  the impact your books had on us;  we  are the Enders of today.  Almost everything written in  Ender's Game  and  Speaker  applied to each one of us on a very, very personal level.  No, the situation isn't as drastic today, but all the feelings are there.  Both your books, along with the excellent work of Peter Robinson, unified us into a tight web of people.
+ Ingrid's letter goes on, talking of the  Phoenix Rising,  the magazine that these students publish together in order to maintain their sense of community. (In response I have given them this introduction to publish in their magazine before its appearance in book form.)
+ Of course, I'm always glad when people like a story of mine; but something much more important is gong on here.  These readers found that  Ender's Game  was not merely a 'mythic" story, dealing with general truths, but something much more personal.  To them,  Ender's Game  was an epic tale, a story that expressed who they are as a community, a story that distinguished them from the other people around them.  They didn't love Ender, or pity Ender (a frequent adult response); they  were  Ender, all of them.  Ender's experience was not foreign or strange to them; in their minds, Ender's life echoed their own lives. The truth of the story was not truth in general, but  their  truth.
+ Stories can be read so differently--even clear stories, even stories that deliberately avoid surface ambiguities.  For instance, here's another letter, likewise one that I received in mid-March of 1991.  It was written on 16 February and postmarked the 18th.  Those dates are important.
+ Mr. Card,
+ I'm an army aviator waiting out a sandstorm in Saudi Arabia.  I've always wanted to write you and since my future is in doubt--I know when the ground war will begin--I decided today would be the day I'd write.
+ I read  Ender's Game  during flight school four years ago.  I'm a warrant officer, and our school, at least the first six weeks, is very different from the commissioned officers'. I was eighteen years old when I arrived at Ft.  Rucker to start flight training, and the first six weeks almost beat me.  Ender gave me courage then and many times after that.  I've experienced the tiredness Ender felt, the kind that goes deep to your soul.  It would be interesting to know what caused you to feel the same way.  No one could describe it unless they experienced it, but I understand how personal that can be.  There is one other novel that describes that frame of soul and mind that I cherish as much as  Ender's Game.  
+       It's called  Armour  and its author  is John Steakley.  Ender and Felix (the protagonist of Armour) are always close by in my mind.  Sadly, there is no sequel to  Armour  as there is to  Ender's Game. 
+ We are the bastards of military aviation.  Our helicopters may be the best in the world, but the equipment we wear and the systems in our helicopter, such as the navigation instruments, are at least twenty years behind the Navy and Air Force. I am very happy with the Air Force's ability to bomb with precision,  but if they miss, the bombs still land on the enemy's territory.  If we screw up, the guys we haul to the battle, the "grunts," die.  We don't even have the armour plate for our chests--"chicken plate"--that the helicopter pilots did in Vietnam.  Last year in El Salvador, army aviators flew a couple of civilian VIPs and twenty reporters over guerrilla-controlled territory and there were no flares in their launchers to counteract the heat-seeking missiles we know the rebels had.  One of our pilots and a crew member were killed last year on a training flight because they flew the sling load they were carrying into the ~ at 70 miles an hour.  It could have been prevented if our night vision goggles had a heads-up display like the Air Force has had for forty  years.   I'm sure you beard about Colonel Pickett being shot down in a Huey in El Salvador just a few months ago.  That type of aircraft is at least thirty years. old and there are no survivability measures installed.  He was a good man, I knew him.
+ The reason I told you about these things is because I wanted to paint a picture for you. I love my job but we aren't like the "zoomies" that everyone makes movies about.  We do our job with less technology, less political support, less recognition, and more risk than the rest, while the threat to us continues to modernize at an
+ unbelievable rate.  I'm not asking for sympathy but I was wondering if you and Mr. Steakley could write a novel about helicopters and the men that fly them for the Army twenty years in the future.  There are many of us that read sciencefiction and after I read  Ender's Game  and  Armour  three times each I started letting my comrades read them.  My wife cried when she read  Ender's Game.   There is a following here for a book like the one I requested.  We have no speaker for us, the ones that will soon die, or the ones that survive...
+ As with those gifted young students who read this book as "their" story, this soldier--who, like most but not all of the Army aviators in the Gulf War survived--did not read  Ender's Game  as a "work of literature." He read it as epic, as a story that helped define his community.  It was not his only epic, of course--Armour, John Steakley's fine novel, was an equal candidate to be part of his self-story.  What matters most, though, was his clear sense that, no matter how much these stories spoke to him, they were still not  exactly  his community's epic.  He still felt the need for a "speaker for the dead" and for the living.  He still felt a hunger, especially at a time when death might well be near, to have his own story, his friends' stories, told.,
+ Why else do we read fiction, anyway?  Not to be impressed by somebody's dazzling language—or at least I hope that's not our reason. I think that most of us, anyway, read these stories that we know are not "true" because we're hungry for another kind of truth: The mythic truth about human nature in general, the particular truth about those life-communities that define our own identity, and the most specific truth of all: our own self-story.  Fiction, because it is not about somebody who actually lived in the real world, always has the possibility of being about ourself.
+  
+     Ender's Game  
+    is a story about gifted children. It is also a story about soldiers.  Captain John F. Schmitt, the author of the Marine Corp's  Warfighting,  the most brilliant concise book of military strategy ever written by an American (and a proponent of the kind of thinking that was at the heart of the allied victory in the Gulf War), found  Ender's Game to  be a useful enough story about the nature of leadership to use it in courses he taught at the Marine University at Quantico.  Watauga College, the interdisciplinary studies program at Appalachian State University—as  un military a community as you could ever hope to find!--uses  Ender's Game  for completely different purposes—to talk about problem-solving and the self-creation of the individual.  A graduate student in Toronto explored the political ideas in  Ender's  Game.   A writer and critic at Pepperdine has seen  Ender's  Game  as, in some ways, religious fiction.
+ All these uses are valid; all these readings of the book are "correct." For all these readers have placed themselves inside this story, not as spectators, but as participants, and so have looked at the world of  Ender's Game,  not with my eyes only, but also with their own.
+ This is the essence of the transaction between storyteller and audience.  The "true" story is not the one that exists in my mind; it is  certainly  not the written words on the bound paper that you hold in your hands.  The story in my mind is nothing but a hope; the text of the story is the tool I created in order to try to make that hope a reality.  The story itself, the true story, is the one that the audience members create in their minds, guided and shaped by my text, but then transformed, elucidated, expanded, edited, and clarified by their own experience, their own desires, their own hopes and fears.
+ The story of  Ender's Game  is not this book though it has that title emblazoned on it.  The story is one that you and I will construct together in your memory.  If the story means anything to you at all, then when you. remember it afterward, think of it, not as something I created, but rather as something that we made together.
+ Orson Scott Card
+  
+     Greensboro, North Carolina 
+  
+     March 1991 
+
+
+
+
+        1
+
+
+   
+      Third  
+ "I've watched through his eyes, I've listened through his ears, and tell you he's the one. Or at least as close as we're going to get."
+ "That's what you said about the brother."
+ "The brother tested out impossible. For other reasons. Nothing to do with his ability."
+ "Same with the sister. And there are doubts about him. He's too malleable. Too willing to submerge himself in someone else's will."
+ "Not if the other person is his enemy."
+ "So what do we do? Surround him with enemies all the time?"
+ "If we have to."
+ "I thought you said you liked this kid."
+ "If the buggers get him, they'll make me look like his favorite uncle."
+ "All right. We're saving the world, after all. Take him."
+ The monitor lady smiled very nicely and tousled his hair and said, "Andrew, I suppose by now you're just absolutely sick of having that horrid monitor. Well, I have good news for you. That monitor is going to come out today. We're going to just take it right out, and it won't hurt a bit."
+ Ender nodded. It was a lie, of course, that it wouldn't hurt a bit. But since adults always said it when it was going to hurt, he could count on that statement as an accurate prediction of the future. Sometimes lies were more dependable than the truth.
+ "So if you'll just come over here, Andrew, just sit right up here on the examining table. The doctor will be in to see you in a moment."
+ The monitor gone. Ender tried to imagine the little device missing from the back of his neck. I'll roll over on my back in bed and it won't be pressing there. I won't feel it tingling and taking up the heat when I shower.
+ And Peter won't hate me anymore. I'll come home and show him that the monitor's gone, and he'll see that I didn't make it, either. That I'll just be a normal kid now, like him. That won't be so bad then. He'll forgive me that I had my monitor a whole year longer than he had his. We'll be-- not friends, probably. No, Peter was too dangerous. Peter got so angry. Brothers, though. Not enemies, not friends, but brothers-- able to live in the same house. He won't hate me, he'll just leave me alone. And when he wants to play buggers and astronauts, maybe I won't have to play, maybe I can just go read a book.
+ But Ender knew, even as he thought it, that Peter wouldn't leave him alone. There was something in Peter's eyes, when he was in his mad mood, and whenever Ender saw that look, that glint, he knew that the one thing Peter would not do was leave him alone. I'm practicing piano, Ender. Come turn the pages for me. Oh, is the monitor boy too busy to help his brother? Is he too smart? Got to go kill some buggers, astronaut? No, no, I don't want your help. I can do it on my own, you little bastard, you little  Third .
+ "This won't take long, Andrew," said the doctor.
+ Ender nodded.
+ "It's designed to be removed. Without infection, without damage. But there'll be some tickling, and some people say they have a feeling of something  missing . You'll keep looking around for something. Something you were looking for, but you can't find it, and you can't remember what it was. So I'll tell you. It's the monitor you're looking for, and it isn't there. In a few days that feeling will pass."
+ The doctor was twisting something at the back of Ender's head. Suddenly a pain stabbed through him like a needle from his neck to his groin. Ender felt his back spasm, and his body arched violently backward; hi head struck the bed. He could feel his legs thrashing, and his hands were clenching each other, wringing each other so tightly that they ached.
+ "Deedee!" shouted the doctor. "I need you!" The nurse ran in, gasped.  "Got to relax these muscles. Get it to me, now! What are you waiting for!"
+ Something changed hands; Ender could not see. He lurched to one side and fell off the examining table. "Catch him!" cried the nurse.
+ "Just hold him steady."
+ "You hold him, doctor, he's too strong for me."
+ "Not the whole thing! You'll stop his heart."
+ Ender felt a needle enter his back just above the neck of his shirt. It burned, but wherever in him the fire spread, his muscles gradually unclenched. Now he could cry for the fear and pain of it.
+ "Are you all right, Andrew?" the nurse asked.
+ Andrew could not remember how to speak. They lifted him onto the table. They checked his pulse, did other things; he did not understand it all.
+ The doctor was trembling; his voice shook as he spoke. "They leave these things in the kids for three years, what do they expect? We could have switched him off, do you realize that? We could have unplugged his brain for all time."
+ "When does the drug wear off'?" asked the nurse.
+ "Keep him here for at least an hour. Watch him. If he doesn't start talking in fifteen minutes, call me. Could have unplugged him forever. I don't have the brains of a bugger."
+ He got back to Miss Pumphrey's class only fifteen minutes before the closing bell. He was still a little unsteady on his feet.
+ "Are you all right, Andrew?" asked Miss Pumphrey.
+ He nodded.
+ "Were you ill?"
+ He shook his head.
+ "You don't look well."
+ "I'm OK."
+ "You'd better sit down, Andrew."
+ He started toward his seat, but stopped. Now what was I looking for? I can't think what I was looking for.
+ "Your seat is over there," said Miss Pumphrey.
+ He sat down, but it was something else he needed, something he had lost. I'll find it later.
+ "Your monitor," whispered the girl behind him.
+ Andrew shrugged.
+ "His monitor," she whispered to the others.
+ Andrew reached up and felt his neck. There was a bandaid. It was gone. He was just like everybody else now.
+ "Washed out, Andy?" asked a boy who sat across the aisle and behind him. Couldn't think of his name. Peter. No, that was someone else.
+ "Quiet, Mr. Stilson," said Miss Pumphrey. Stilson smirked.
+ Miss Pumphrey talked about multiplication. Ender doodled on his desk, drawing contour maps of mountainous islands and then telling his desk to display them in three dimensions from every angle. The teacher would know, of course, that he wasn't paying attention, but she wouldn't bother him. He always knew the answer, even when she thought he wasn't paying attention.
+ In the corner of his desk a word appeared and began marching around the perimeter of the desk. It was upside down and backward at first, but Ender knew what it said long before it reached the bottom of the desk and turned right side up.
+ THIRD
+ Ender smiled. He was the one who had figured out how to send messages and make them march-- even as his secret enemy called him names, the method of delivery praised him. It was not  his  fault he was a Third.  It was the government's idea, they were the ones who authorized it-- how else could a Third like Ender have got into school? And now the monitor was gone. The experiment entitled Andrew Wiggin hadn't worked out after all. If they could, he was sure they would like to rescind the waivers that had allowed him to be born at all. Didn't work, so erase the experiment.
+ The bell rang. Everyone signed off their desks or hurriedly typed in reminders to themselves. Some were dumping lessons or data into their computers at home. A few gathered at the printers while something they wanted to show was printed out. Ender spread his hands over the child-size keyboard near the edge of the desk and wondered what it would feel like to have hands as large as a grown-up's. They must feel so big and awkward, thick stubby fingers and beefy palms. Of course, they had bigger keyboards-- but how could their thick fingers draw a fine line, the way Ender could, a thin line so precise that he could make it spiral seventy-nine times from the center to the edge of the desk without the lines ever touching or overlapping. It gave him something to do while the teacher droned on about arithmetic. Arithmetic! Valentine had taught him arithmetic when he was three.
+ "Are you all right, Andrew?"
+ "Yes, ma'am."
+ "You'll miss the bus."
+ Ender nodded and got up. The other kids were gone. They would be waiting, though, the bad ones. His monitor wasn't perched on his neck, hearing what heard and seeing what he saw. They could say what they liked.  They might even hit him now-- no one could see anymore, and so no one would come to Ender's rescue. There were advantages to the monitor, and he would miss them.
+ It was Stilson, of course. He wasn't bigger than most other kids, but he was bigger than Ender. And he had some others with him. He always did.
+ "Hey, Third."
+ Don't answer. Nothing to say.
+ "Hey, Third, we're talkin to you, Third, hey bugger-lover, we're talkin to you."
+ Can't think of anything to answer. Anything I say will make it worse. So will saying nothing.
+ "Hey, Third, hey, turd, you flunked out, huh? Thought you were better than us, but you lost your little birdie, Thirdie, got a bandaid on your neck."
+ "Are you going to let me through?" Ender asked.
+ "Are we going to let him through? Should we let him through?" They all laughed. "Sure we'll let you through. First we'll let your arm through, then your butt through, then maybe a piece of your knee."
+ The others chimed in now. "Lost your birdie, Thirdie.  Lost your birdie, Thirdie."
+ Stilson began pushing him with one hand, someone behind him then pushed him toward Stilson.
+ "See-saw, marjorie daw," somebody said.
+ "Tennis!"
+ "Ping-pong!"
+ This would not have a happy ending. So Ender decided that he'd rather not be the unhappiest at the end. The next time Stilson's arm came out to push him, Ender grabbed at it. He missed.
+ "Oh, gonna fight me, huh? Gonna fight me, Thirdie?"
+ The people behind Ender grabbed at him, to hold him.
+ Ender did not feel like laughing, but he laughed. "You mean it takes this many of you to fight one Third?"
+ "We're  people , not  Thirds , turd face. You're about as strong as a fart!"
+ But they let go of him. And as soon as they did, Ender kicked out high and hard, catching Stilson square in the breastbone. He dropped. It took Ender by surprise he hadn't thought to put Stilson on the ground with one kick. It didn't occur to him that Stilson didn't take a fight like this seriously, that he wasn't prepared for a truly desperate blow.
+ For a moment, the others backed away and Stilson lay motionless. They were all wondering if he was dead. Ender, however, was trying to figure out a way to forestall vengeance. To keep them from taking him in a pack tomorrow. I have to win this now, and for all time, or I'll fight it every day and it will get worse and worse. Ender knew the unspoken rules of manly warfare, even though he was only six. It was forbidden to strike the opponent who lay helpless on the ground; only an animal would do that.
+ So Ender walked to Stilson's supine body and kicked him again, viciously, in the ribs. Stilson groaned and rolled away from him. Ender walked around him and kicked him again, in the crotch. Stilson could not make a sound; he only doubled up and tears streamed out of his eyes.
+ Then Ender looked at the others coldly. "You might be having some idea of ganging up on me. You could probably beat me up pretty bad. But just remember what I do to people who try to hurt me. From then on you'd be wondering when I'd get you, and how bad it would be." He kicked Stilson in the face. Blood from his nose spattered the ground nearby. "It wouldn't be this bad," Ender said. "It would be worse."
+ He turned and walked away. Nobody followed him, He turned a corner into the corridor leading to the bus stop. He could hear the boys behind him saying, "Geez. Look at him. He's wasted." Ender leaned his head against the wall of the corridor and cried until the bus came. I am just like Peter. Take my monitor away, and I am just like Peter.
+
+
+
+
+        2
+
+
+ Peter
+ "All right, it's off. How's he doing?"
+ "You live inside somebody's body for a few years, you get used to it. I look at his face now, I can't tell what's going on. I'm not used to seeing his facial expressions. I'm used to feeling them."
+ "Come on, we're not talking about psychoanalysis here. We're soldiers, not witch doctors. You just saw him beat the guts out of the leader of a gang."
+ "He was thorough. He didn't just beat him, he beat him deep. Like Mazer Rackham at the--"
+ "Spare me. So in the judgment of the committee, he passes.
+ "Mostly. Let's see what he does with his brother, now that the monitor's off."
+ "His brother. Aren't you afraid of what his brother will do to  him ?"
+ "You were the one who told me that this wasn't a no-risk business."
+ "I went back through some of the tapes. I can't help it. I like the kid. I think were going to screw him up."
+ "Of course we are. It's our job. We're the wicked witch. We promise gingerbread, but we eat the little bastards alive."
+ "I'm sorry, Ender," Valentine whispered. She was looking at the bandaid on his neck.
+ Ender touched the wall and the door closed behind him. "I don't care. I'm glad it's gone."
+ "What's gone?" Peter walked into the parlor, chewing on a mouthful of bread and peanut butter.
+ Ender did not see Peter as the beautiful ten-year-old boy that grown-ups saw, with dark, thick, tousled hair and a face that could have belonged to Alexander the Great. Ender looked at Peter only to detect anger or boredom, the dangerous moods that almost always led to pain. Now as Peter's eyes discovered the bandaid on his neck, the telltale flicker of anger appeared.
+ Valentine saw it too. "Now he's like us," she said, trying to soothe him before he had time to strike.
+ But Peter would not be soothed. "Like us? He keeps the little sucker till he's six years old. When did you lose yours? You were three. I lost mine before I was five.  He  almost made it, little bastard, little bugger."
+ This is all right, Ender thought. Talk and talk, Peter. Talk is fine.
+ "Well, now your guardian angels aren't watching over you," Peter said. "Now they aren't checking to see if you feel pain, listening to hear what I'm saying, seeing what I'm doing to you. How about that? How about it?"
+ Ender shrugged.
+ Suddenly Peter smiled and clapped his hands together in a mockery of good cheer. "Let's play buggers and astronauts," he said.
+ "Where's Mom?" asked Valentine.
+ "Out," said Peter. "I'm in charge."
+ "I think I'll call Daddy."
+ "Call away," said Peter. "You know he's never in."
+ "I'll play," Ender said.
+ "You be the bugger," said Peter.
+ "Let him be the astronaut for once," Valentine said.
+ "Keep your fat face out of it, fart mouth," said Peter. "Come on upstairs and choose your weapons."
+ It would not be a good game, Ender knew it was not a question of winning. When kids played in the corridors, whole troops of them, the buggers never won, and sometimes the games got mean. But here in their flat, the game would start mean, and the bugger couldn't just go empty and quit the way buggers did in the real wars. The bugger was in it until the astronaut decided it was over.
+ Peter opened his bottom drawer and took out the bugger mask. Mother had got upset at him when Peter bought it, but Dad pointed out that the war wouldn't go away just because you hid bugger masks and wouldn't let your kids play with make-believe laser guns. The better to play the war games, and have a better chance of surviving when the buggers came again.
+ If I survive the games, thought Ender. He put on the mask. It closed him in like a hand pressed tight against his face. But this isn't how it feels to he a bugger, thought Ender. They don't wear this face like a mask, it is their face. On their home worlds, do the buggers put on human masks, and play? And what do they call its? Slimies, because we're so soft and oily compared to them?
+ "Watch out, Slimy," Ender said.
+ He could barely see Peter through the eyeholes. Peter smiled at him. "Slimy, huh? Well, bugger-wugger, let's see how you break that face of yours."
+ Ender couldn't see it coming, except a slight shift of Peter's weight; the mask cut out his peripheral vision. Suddenly there was the pain and pressure of a blow to the side of his head; he lost balance, fell that way.
+ "Don't see too well, do you, bugger?" said Peter.
+ Ender began to take off the mask. Peter put his toe against Ender's groin. "Don't take off the mask," Peter said.
+ Ender pulled the mask down into place, took his hands away.
+ Peter pressed with his foot. Pain shot through Ender; he doubled up.
+ "Lie flat, bugger. We're gonna vivisect you, bugger. At long last we've got one of you alive, and we're going to see how you work."
+ "Peter, stop it," Ender said.
+ "Peter, stop it. Very good. So you buggers can guess our names. You can make yourselves sound like pathetic, cute little children so we'll love you and be nice to you. But it doesn't work. I can see you for what you really are. They meant you to be human, little Third, but you're really a bugger, and now it shows."
+ He lifted his foot, took a step, and then knelt on Ender, his knee pressing into Ender's belly just below the breastbone. He put more and more of his weight on Ender. It became hard to breathe.
+ "I could kill you like this," Peter whispered. "Just press and press until you're dead. And I could say that I didn't know it would hurt you, that we were just playing, and they'd believe me, and everything would be fine. And you'd be dead. Everything would be fine."
+ Ender could not speak; the breath was being forced from his lungs. Peter might mean it. Probably didn't mean it, but then he might.
+ "I do mean it," Peter said. "Whatever you think. I mean it. They only authorized you because I was so promising. But I didn't pan out. You did better. They think you're better. But I don't want a better little brother, Ender. I don't want a Third."
+ "I'll tell," Valentine said.
+ "No one would believe you."
+ "They'd believe me."
+ "Then you're dead, too, sweet little sister."
+ "Oh, yes," said Valentine. "They'll believe that. 'I didn't know it would kill Andrew. And when he was dead, I didn't know it would kill Valentine  too .'"
+ The pressure let up a little.
+ "So. Not today. But someday you two won't be together. And there'll be an accident."
+ "You're all talk," Valentine said. "You don't mean any of it."
+ "I don't?"
+ "And do you know why you don't mean it?" Valentine asked. "Because you want to be in government someday. You want to be elected. And they won't elect you if your opponents can dig up the fact that your brother and sister both died in suspicious accidents when they were little. Especially because of the letter I've put in my secret file, which will be opened in the event of my death."
+ "Don't give me that kind of crap," Peter said.
+ "It says, I didn't die a natural death. Peter killed me, and if he hasn't already killed Andrew, he will soon. Not enough to convict you, but enough to keep you from ever getting elected."
+ "You're his monitor now," said Peter. "You better watch him, day and night. You better be there."
+ "Ender and I aren't stupid. We scored as well as you did on everything. Better on some things. We're all such wonderfully bright children. You're not the smartest, Peter, just the biggest."
+ "Oh, I know. But there'll come a day when you aren't there with him, when you forget. And suddenly you'll remember, and you'll rush to him, and there he'll be perfectly all right. And the next time you won't worry so much, and you won't come so fast. And every time, he'll be all right. And you'll think that I forgot. Even though you'll remember that I said this, you'll think that I forgot. And years will pass. And then there'll be a terrible accident, and I'll find his body, and I'll cry and cry over him, and you'll remember this conversation, Vally, but you'll be ashamed of yourself for remembering, because you'll know that I changed, that it really was an accident, that it's cruel of you even to remember what I said in a childhood quarrel. Except that it'll be true. I'm gonna save this up, and he's gonna die, and you won't do a thing, not a thing. But you go on believing that I'm just the biggest."
+ "The biggest asshole," Valentine said.
+ Peter leaped to his feet and started for her. She shied away. Ender pried off his mask. Peter flopped back on his bed and started to laugh. Loud, but with real mirth, tears coming to his eyes. "Oh, you guys are just super, just the biggest suckers on the planet earth."
+ "Now he's going to tell us it was all a joke," Valentine said.
+ "Not a joke, a game. I can make you guys believe anything. I can make you dance around like puppets." In a phony monster voice he said, "I'm going to kill you and chop you into little pieces and put you into the garbage hole." He laughed again. "Biggest suckers in the solar system."
+ Ender stood there watching him laugh and thought of Stilson, thought of how it felt to crunch into his body. This is who needed it. This is who should have got it.
+ As if she could read his mind, Valentine whispered, "No, Ender."
+ Peter suddenly rolled to the side, flipped off the bed, and got in position for a fight. "Oh, yes, Ender," he said. "Any time, Ender."
+ Ender lifted his right leg and took off the shoe. He held it up. "See there, on the toe? That's blood, Peter."
+ "Ooh. Ooh, I'm gonna die, I'm gonna die. Ender killed a capper-tiller and now he's gonna kill me."
+ There was no getting to him. Peter was a murderer at heart, and nobody knew it but Valentine and Ender.
+ Mother came home and commiserated with Ender about the monitor. Father came home and kept saying it was such a wonderful surprise, they had such fantastic children that the government told them to have three and now the government didn't want to take any of them after all, so here they were with three, they still had a Third... until Ender wanted to scream at him, I know I'm a Third, I know it, if you want I'll go away so you don't have to be embarrassed in front of everybody, I'm sorry I lost the monitor and now you have three kids and no obvious explanation, so inconvenient for you, I'm sorry sorry sorry.
+ He lay in bed staring upward into the darkness... On the bunk above him, he could hear Peter turning and tossing restlessly. Then Peter slid off the bunk and walked out of the room. Ender heard the hushing sound of the toilet clearing; then Peter stood silhouetted in the doorway.
+ He thinks I'm asleep. He's going to kill me.
+ Peter walked to the bed, and sure enough, he did not lift himself up to his bed. Instead he came and stood by Ender's head.
+ But he did not reach for a pillow to smother Ender. He did not have a weapon.
+ He whispered, "Ender, I'm sorry, I'm sorry, I know how it feels. I'm sorry, I'm your brother. I love you."
+ A long time later, Peter's even breathing said that he was asleep. Ender peeled the bandaid from his neck. And for the second time that day he cried.
+
+
+
+
+ 3
+
+
+ Graff
+ "The sister is our weak link. He really loves her."
+ "I know. She can undo it all, from the start. He won't want to leave her."
+ "So, what are you going to do?"
+ "Persuade him that he wants to come with us more than he wants to stay with her."
+ "How will you do that?"
+ "I'll lie to him."
+ "And if that doesn't work?"
+ "Then I'll tell the truth. We're allowed to do that in emergencies. We can't plan for everything, you know."
+ Ender wasn't very hungry during breakfast. He kept wondering what it would be like at school. Facing Stilson after yesterday's fight. What Stilson's friends would do. Probably nothing, but he couldn't be sure. He didn't want to go.
+ "You're not eating, Andrew," his mother said.
+ Peter came into the room. "Morning. Ender. Thanks for leaving your slimy washcloth in the middle of the shower."
+ "Just for you," Ender murmured.
+ "Andrew, you have to eat."
+ Ender held out his wrists, a gesture that said, So feed it to me through a needle.
+ "Very funny." Mother said. "I try to be concerned, but it makes no difference to my genius children."
+ "It was all your genes that made us, Mom." said Peter. "We sure didn't get any from Dad."
+ "I heard that," Father said, not looking up from the news that was being displayed on the table while he ate.
+ "It would've been wasted if you hadn't."
+ The table beeped. Someone was at the door.
+ "Who is it?" Mother asked.
+ Father thumbed a key and a man appeared on the video. He was wearing the only military uniform that meant anything anymore, the I.F., the International Fleet.
+ "I thought it was over," said Father.
+ Peter said nothing, just poured milk over his cereal.
+ And Ender thought, Maybe I won't have to go to school today after all.
+ Father coded the door open and got up from the table. "I'll see to it," he said. "Stay and eat."
+ They stayed, but they didn't eat. A few moments later, Father came back into the room and beckoned to Mother.
+ "You're in deep poo," said Peter. "They found out what you did to Stilson, and now they're gonna make you do time out in the Belt."
+ "I'm only six, moron. I'm a juvenile."
+ "You're a Third, turd. You've got no rights."
+ Valentine came in, her hair in a sleepy halo around her face. "Where's Mom and Dad? I'm too sick to go to school."
+ "Another oral exam, huh?" Peter said.
+ "Shut up, Peter," said Valentine.
+ "You should relax and enjoy it," said Peter. "It could be worse."
+ "I don't know how."
+ "It could be an anal exam."
+ "Hyuk hyuk," Valentine said. "Where are Mother and Father?"
+ "Talking to a guy from I.F."
+ Instinctively she looked at Ender. After all, for years they had expected someone to come and tell them that Ender had passed, that Ender was needed.
+ "That's right, look at him," Peter said. "But it might he me, you know. They might have realized I was the best of the lot after all." Peter's feelings were hurt, and so he was being a snot, as usual.
+ The door opened. "Ender," said Father, "you better come in here."
+ "Sorry, Peter," Valentine taunted.
+ Father glowered. "Children, this is no laughing matter."
+ Ender followed Father into the parlor. The I.F. officer rose to his feet when they entered, but he did not extend a hand to Ender.
+ Mother was twisting her wedding band on her finger. "Andrew," she said. "I never thought you were the kind to get in a fight."
+ "The Stilson boy is in the hospital," Father said. "You really did a number on him. With your shoe, Ender, that wasn't exactly fair."
+ Ender shook his head. He had expected someone from the school to come about Stilson, not an officer of the fleet. This was more serious than he had thought. And yet he couldn't think what else he could have done.
+ "Do you have any explanation for your behavior, young man?" asked the officer.
+ Ender shook his head again. He didn't know what to say, and he was afraid to reveal himself to be any more monstrous than his actions had made him out to be. I'll take it, whatever the punishment is, he thought. Let's get it over with.
+ "We're willing to consider extenuating circumstances," the officer said. "But I must tell you it doesn't look good. Kicking him in the groin, kicking him repeatedly in the face and body when he was down-- sounds like you really enjoyed it."
+ "I didn't," Ender whispered.
+ "Then why did you do it?"
+ "He had his gang there," Ender said.
+ "So? This excuses anything?"
+ "No."
+ "Tell me why you kept on kicking him. You had already won."
+ "Knocking him down won the first fight. I wanted to win all the next ones, too, right then, so they'd leave me alone." Ender couldn't help it, he was too afraid, too ashamed of his own acts: though he tried not to, he cried again. Ender did not like to cry and rarely did; now, in less than a day, he had done it three times. And each time was worse. To cry in front of his mother and father and this military man, that was shameful. "You took away the monitor," Ender said. "I had to take care of myself, didn't I?"
+ "Ender, you should have asked a grown-up for help," Father began.
+ But the officer stood up and stepped across the room to Ender. He held out his hand. "My name is Graff. Ender. Colonel Hyrum Graff. I'm director of primary training at Battle School in the Belt. I've come to invite you to enter the school."
+ After all. "But the monitor--"
+ "The final step in your testing was to see what would happen if the monitor comes off. We don't always do it that way, but in your case--"
+ "And I passed?"
+ Mother was incredulous. "Putting the Stilson boy in the hospital? What would you have done if Andrew had killed him, given him a medal?"
+ "It isn't  what  he did, Mrs. Wiggin. It's why." Colonel Graff handed her a folder full of papers. "Here are the requisitions. Your son has been cleared by the I.F. Selective Service. Of course we already have your consent, granted in writing at the time conception was confirmed, or he could not have been born. He has been ours from then, if he qualified."
+ Father's voice was trembling as he spoke. "It's not very kind of you, to let us think you didn't want him, and then to take him after all."
+ "And this charade about the Stilson boy," Mother said.
+ "It wasn't a charade, Mrs. Wiggin. Until we knew what Ender's motivation was, we couldn't be sure he wasn't another-- we had to know what the action meant. Or at least what Ender believed that it meant."
+ "Must you call him that stupid nickname?" Mother began to cry.
+ "I'm sorry, Mrs. Wiggin. But that's the name he calls himself."
+ "What are you going to do, Colonel Graff?" Father asked. "Walk out the door with him now?"
+ "That depends," said Graff.
+ "On what?"
+ "On whether Ender wants to come."
+ Mother's weeping turned to bitter laughter. "Oh, so it's voluntary after all, how sweet!"
+ "For the two of you, the choice was made when Ender was conceived. But for Ender, the choice has not been made at all. Conscripts make good cannon fodder, but for officers we need volunteers."
+ "Officers?" Ender asked. At the sound of his voice, the others fell silent.
+ "Yes," said Graff. "Battle School is for training future starship captains and commodores of flotillas and admirals of the fleet."
+ "Let's not have any deception here!" Father said angrily. "How many of the boys at the Battle School actually end up in command of ships!"
+ "Unfortunately, Mr. Wiggin, that is classified information. But I  can  say that none of our boys who makes it through the first year has ever failed to receive a commission as an officer. And none has served in a position of lower rank than chief executive officer of an interplanetary vessel. Even in the domestic defense forces within our own solar system, there's honor to be had."
+ "How many make it through the first year?" asked Ender.
+ "All who want to," said Graff.
+ Ender almost said, I want to. But he held his tongue. This would keep him out of school, but that was stupid, that was just a problem for a few days. It would keep him away from Peter-- that was more important, that might be a matter of life itself. But to leave Mother and Father, and above all, to leave Valentine. And become a soldier. Ender didn't like fighting. He didn't like Peter's kind, the strong against the weak, and he didn't like his own kind either, the smart against the stupid.
+ "I think," Graff said, "that Ender and I should have a private conversation."
+ "No," Father said.
+ "I won't take him without letting you speak to him again," Graff said. "And you really can't stop me."
+ Father glared at Graff a moment longer, then got up and left the room. Mother paused to squeeze Ender's hand. She closed the door behind her when she left.
+ "Ender," Graff said, "if you come with me, you won't be back here for a long time. There aren't any vacations from Battle School. No visitors, either. A full course of training lasts until you're sixteen years old-- you get your first leave, under certain circumstances, when you're twelve. Believe me, Ender, people change in six years, in ten years. Your sister Valentine will be a woman when you see her again, if you come with me. You'll be strangers. You'll still love her, Ender, but you won't know her. You see I'm not pretending it's easy."
+ "Mom and Daddy?"
+ "I know you, Ender. I've been watching the monitor disks for some time. You won't miss your mother and father, not much, not for long. And they won't miss you long, either."
+ Tears came to Ender's eyes, in spite of himself. He turned his face away, but would not reach up to wipe them.
+ "They  do  love you, Ender. But you have to understand what your life has cost them. They were born religious, you know. Your father was baptized with the name John Paul Wieczorek. Catholic. The seventh of nine children."
+ Nine children. That was unthinkable. Criminal.
+ "Yes, well, people do strange things for religion. You know the sanctions, Ender-- they were not as harsh then, but still not easy. Only the first two children had a free education. Taxes steadily rose with each new child. Your father turned sixteen and invoked the Noncomplying Families Act to separate himself from his family. He changed his name, renounced his religion, and vowed never to have more than the allotted two children. He meant it. All the shame and persecution he went through as a child-- he vowed no child of his would go through it. Do you understand?"
+ "He didn't want me."
+ "Well, no one  wants  a Third anymore. You can't expect them to be glad. But your father and mother are a special case. They both renounced their religions-- your mother was a Mormon-- but in fact their feelings are still ambiguous. Do you know what ambiguous means?"
+ "They feel both ways."
+ "They're ashamed of having come from noncompliant families. They conceal it. To the degree that your mother refuses to admit to anyone that she was born in Utah, lest they suspect. Your father denies his Polish ancestry, since Poland is still a noncompliant nation, and under international sanction because of it. So, you see, having a Third, even under the government's direct instructions, undoes everything they've been trying to do."
+ "I know that."
+ "But it's more complicated than that. Your father still named you with legitimate saints' names. In fact, he baptized all three of you himself as soon as he got you home after you were born. And your mother objected. They quarreled over it each time, not because she didn't want you baptized, but because she didn't want you baptized Catholic. They haven't really given up their religion. They look at you and see you as a badge of pride, because they were able to circumvent the law and have a Third. But you're also a badge of cowardice, because they dare not go further and practice the noncompliance they still feel is right. And you're a badge of public shame, because at every step you interfere with their efforts at assimilation into normal complying society."
+ "How can you know all this?"
+ "We monitored your brother and sister, Ender. You'd be amazed at how sensitive the instruments are. We were connected directly to your brain. We heard all that you heard, whether you were listening carefully or not. Whether you understood or not.  We  understand."
+ "So my parents love me and don't love me?"
+ "They love you. The question is whether they want you here. Your presence in this house is a constant disruption. A source of tension. Do you understand?"
+ " I'm  not the one who causes tension."
+ "Not anything you  do , Ender. Your life itself. Your brother hates you because you are living proof that he wasn't good enough. Your parents resent you because of all the past they are trying to evade."
+ "Valentine loves me."
+ "With all her heart. Completely, unstintingly, she's devoted to you, and you adore her. I told you it wouldn't be easy."
+ "What is it like, there?"
+ "Hard work. Studies, just like school here, except we put you into mathematics and computers much more heavily. Military history. Strategy and tactics. And above all, the Battle Room."
+ "What's that?"
+ "War games. All the boys are organized into armies. Day after day, in zero gravity, there are mock battles. Nobody gets hurt, but winning and losing matter. Everybody starts as a common soldier, taking orders. Older boys are your officers, and it's their duty to train you and command you in battle. More than that I can't tell you. It's like playing buggers and astronauts-- except that you have weapons that work, and fellow soldiers fighting beside you, and your whole future and the future of the human race depends on how well you learn, how well you fight. It's a hard life, and you won't have a normal childhood. Of course, with your mind, and as a Third to boot, you wouldn't have a particularly normal childhood anyway."
+ "All boys?"
+ "A few girls. They don't often pass the tests to get in. Too many centuries of evolution are working against them. None of them will be like Valentine, anyway. But there'll be brothers there, Ender."
+ "Like Peter?"
+ "Peter wasn't accepted, Ender, for the very reasons that you hate him."
+ "I don't hate him. I'm just--"
+ "Afraid of him. Well, Peter isn't all bad, you know. He was the best we'd seen in a long time. We asked your parents to choose a daughter next-- they would have anyway-- hoping that Valentine would be Peter, but milder. She was too mild. And so we requisitioned you."
+ "To be half Peter and half Valentine."
+ "If things worked out right."
+ "Am I?"
+ "As far as we can tell. Our tests are very good, Ender. But they don't tell us everything. In fact, when it comes down to it, they hardly tell us anything. But they're better than nothing." Graff leaned over and took Ender's hands in his. "Ender Wiggin, if it were just a matter of choosing the best and happiest future for you, I'd tell you to stay home. Stay here, grow up, be happy. There are worse things than being a Third, worse things than a big brother who can't make up his mind whether to be a human being or a jackal. Battle School is one of those worse things. But we need you. The buggers may seem like a game to you now, Ender, but they damn near wiped us out last time. But it wasn't enough. They had us cold, outnumbered and outweaponed. The only thing that saved us was that we had the most brilliant military commander we've ever found. Call it fate, call it God, call it damnfool luck, we had Mazer Rackham."
+ "But we don't have him now, Ender. We've scraped together everything mankind could produce, a fleet that makes the one they sent against us last time seem like a bunch of kids playing in a swimming pool. We have some new weapons, too. But it might not be enough, even so. Because in the eighty years since the last war, they've had as much time to prepare as we have. We need the best we can get, and we need them fast. Maybe you're not going to work out for us, and maybe you are. Maybe you'll break down under the pressure, maybe it'll ruin your life, maybe you'll hate me for coming here to your house today. But if there's a chance that because you're with the fleet, mankind might survive and the buggers might leave us alone forever then I'm going to ask you to do it. To come with me."
+ Ender had trouble focusing on Colonel Graff. The man looked far away and very small, as if Ender could pick him up with tweezers and drop him in a pocket. To leave everything here, and go to a place that was very hard, with no Valentine, no Mom and Dad.
+ And then he thought of the films of the buggers that everyone had to see at least once a year. The Scathing of China. The Battle of the Belt. Death and suffering and terror. And Mazer Rackham and his brilliant maneuvers, destroying an enemy fleet twice his size and twice his firepower, using the little human ships that seemed so frail and weak. Like children fighting with grown-ups. And we won.
+ "I'm afraid," said Ender quietly. "But I'll go with you."
+ "Tell me again," said Graff.
+ "It's what I was born for, isn't it? If I don't go, why am I alive?"
+ "Not good enough," said Graff.
+ "I don't want to go," said Ender, "but I will."
+ Graff nodded. "You can change your mind. Up until the time you get in my car with me, you can change your mind. After that, you stay at the pleasure of the International Fleet. Do you understand that?"
+ Ender nodded.
+ "All right. Let's tell them."
+ Mother cried. Father held Ender tight. Peter shook his hand and said, "You lucky little pinheaded fart-eater." Valentine kissed him and left her tears on his cheek.
+ There was nothing to pack. No belongings to take. "The school provides everything you need, from uniforms to school supplies. And as for toys-- there's only one game."
+ "Good-bye," Ender said to his family. He reached up and took Colonel Graff's hand and walked out the door with him.
+ "Kill some buggers for me!" Peter shouted.
+ "I love you, Andrew!" Mother called.
+ "We'll write to you!" Father said.
+ And as he got into the car that waited silently in the corridor, he heard Valentine's anguished cry. "Come back to me! I love you forever!"
+
+
+
+
+ 4
+
+
+ Launch
+ "With Ender, we have to strike a delicate balance. Isolate him enough that he remains creative-- otherwise he'll adopt the system here and we'll lose him. At the same time, we need to make sure he keeps a strong ability to lead."
+ "If he earns rank, he'll lead."
+ "lt isn't that simple. Mazer Rackham could handle his little fleet and win. By the time this war happens, there'll be too much, even for a genius. Too many little coats. He has to work smoothly with his subordinates."
+ "Oh. good. He has to be a genius and nice. too."
+ "Not nice. Nice will let the buggers have us all,"
+ "So you're going to isolate him."
+ "I'll have him completely separated from the rest of the boys by the time we get to the School."
+ "I have no doubt of it. I'll be waiting for you to get here. I watched the vids of what he did to the Stilson boy. This is not a sweet little kid you're bringing up here."
+ "That's where you're mistaken. He's even sweeter. But don't worry. We'll purge that in a hurry."
+ "Sometimes I think you enjoy breaking these little geniuses."
+ "There is an art to it, and I'm very, very good at it. But enjoy? Well, maybe. When they put back the pieces afterward, and it makes them better."
+ "You're a monster."
+ "Thanks. Does this mean I get a raise?"
+ "Just a medal. The budget isn't inexhaustible."
+ They say that weightlessness can cause disorientation, especially in children, whose sense of direction isn't yet secure. But Ender was disoriented before he left Earth's gravity. Before the shuttle launch even began.
+ There were nineteen other boys in his launch. They filed out of the bus and into the elevator. They talked and joked and bragged and laughed. Ender kept his silence. He noticed how Graff and the other officers were watching them. Analyzing. Everything we do means something, Ender realized. Them laughing. Me not laughing.
+ He toyed with the idea of trying to be like the other boys. But he couldn't think of any jokes, and none of theirs seemed funny. Wherever their laughter came from, Ender couldn't find such a place in himself.  He was afraid, and fear made him serious.
+ They had dressed him in a uniform, all in a single piece; it felt funny not to have a belt cinched around his waist. He felt baggy and naked, dressed like that. There were TV cameras going, perched like animals on the shoulders of crouching, prowling men. The men moved slowly, catlike, so the camera motion would be smooth. Ender caught himself moving smoothly, too.
+ He imagined himself being on TV, in an interview. The announcer asking him, How do you feel, Mr. Wiggin? Actually quite well, except hungry. Hungry? Oh, yes, they don't let you eat for twenty hours before the launch. How interesting, I never knew that.  All of us are quite hungry, actually. And all the while, during the interview, Ender and the TV guy would slink along smoothly in front of the cameraman, taking long, lithe strides. For the first time, Ender felt like laughing. He smiled. The other boys near him were laughing at the moment, too, for another reason. They think I'm smiling at their joke, thought Ender. But I'm smiling at something much funnier.
+ "Go up the ladder one at a time," said an officer. "When you come to an aisle with empty seats, take one. There aren't any window seats."
+ It was a joke. The other boys laughed.
+ Ender was near the last, but not the very last. The TV cameras did not give up, though. Will Valentine see me disappear into the shuttle? He thought of waving at her, of running to the cameraman and saying, "Can I tell Valentine good-bye?" He didn't know that it would be censored out of the tape if he did, for the boys soaring out to Battle School were all supposed to be heroes. They weren't supposed to miss anybody. Ender didn't know about the censorship, but he did know that running to the cameras would be wrong.
+ He walked the short bridge to the door in the shuttle. He noticed that the wall to his right was carpeted like a floor. That was where the disorientation began. The moment he thought of the wall as a floor, he began to feel like he was walking on a wall. He got to the ladder, and noticed that the vertical surface behind it was also carpeted. I am climbing up the floor. Hand over hand, step by step.
+ And then, for fun, he pretended that he was climbing down the wall. He did it almost instantly in his mind, convinced himself against the best evidence of gravity. He found himself gripping the seat tightly, even though gravity pulled him firmly against it.
+ The other boys were bouncing on their seats a little, poking and pushing, shouting. Ender carefully found the straps, figured out how they fit together to hold him at crotch, waist, and shoulders. He imagined the ship dangling upside down on the undersurface of the Earth, the giant fingers of gravity holding them firmly in place. But we will slip away, he thought. We are going to fall off this planet.
+ He did not know its significance at the time. Later, though, he would remember that it was even before he left Earth that he first thought of it as a planet, like any other, not particularly his own.
+ "Oh, already figured it out," said Graff. He was standing on the ladder.
+ "Coming with us?" Ender asked.
+ "I don't usually come down for recruiting," Graff said. "I'm kind of in charge there. Administrator of the School. Like a principal. They told me I had to come back or I'd lose my job." He smiled.
+ Ender smiled back. He felt comfortable with Graff. Graff was good. And he was principal of the Battle School. Ender relaxed a little. He would have a friend there.
+ The other boys were belted in place, those who hadn't done as Ender did. Then they waited for an hour while a TV at the front of the shuttle introduced them to shuttle flight, the history of space flight, and their possible future with the great starships of the I.F. Very boring stuff. Ender had seen such films before.
+ Except that he had not been belted into a seat inside the shuttle. Hanging upside down from the belly of Earth.
+ The launch wasn't bad. A little scary. Some jolting, a few moments of panic that this might be the first failed launch in the history of the shuttle. The movies hadn't made it plain how much violence you could experience, lying on your back in a soft chair.
+ Then it was over, and he really was hanging by the straps, no gravity anywhere.
+ But because he had already reoriented himself, he was not surprised when Graff came up the ladder backward, as if he were climbing down to the front of the shuttle. Nor did it bother him when Graff hooked his feet under a rung and pushed off with his hands, so that suddenly he swung upright, as if this were an ordinary airplane.
+ The reorientations were too much for some. One boy gagged; Ender understood then why they had been forbidden to eat anything for twenty hours before the launch. Vomit in null gravity wouldn't be fun.
+ But for Ender, Graff's gravity game was fun, And he carried it further, imagining that Graff was actually hanging upside down from the center aisle, and then picturing him sticking straight out from a side wall. Gravity could go any which way. However I want it to go. I can make Graff stand on his head and he doesn't even know it.
+ "What do you think is so funny, Wiggin?"
+ Graff's voice was sharp and angry. What did I do wrong, thought Ender. Did I laugh out loud?
+ "I asked you a question, soldier!" barked Graff.
+ Oh yes. This is the beginning of the training routine. Ender had seen some military shows on TV, and they always shouted a lot at the beginning of training before the soldier and the officer became good friends.
+ "Yes sir," Ender said.
+ "Well answer it, then!"
+ "I thought of you hanging upside down by your feet. I thought it was funny."
+ It sounded stupid, now, with Graff looking at him coldly. "To you I suppose it  is  funny. Is it funny to anybody else here?"
+ Murmurs of no.
+ "Well why isn't it?" Graff looked at them all with contempt. "Scumbrains, that's what we've got in this launch. Pinheaded little morons. Only one of you had the brains to realize that in null gravity directions are whatever you conceive them to be. Do you understand that, Shafts?"
+ The boy nodded.
+ "No you didn't. Of course you didn't. Not only stupid, but a liar too. There's only one boy on this launch with any brains  at all , and that's Ender Wiggin. Take a good look at him, little boys. He's going to he a commander when you're still in diapers up there. Because he knows how to think in null gravity, and you just want to throw up."
+ This wasn't the way the show was supposed to go. Graff was supposed to pick on him, not set him up as the best. They were supposed to be against each other at first, so they could become friends later.
+ "Most of you are going to ice out. Get used to that, little boys. Most of you are going to end up in Combat School, because you don't have the brains to handle deep-space piloting. Most of you aren't worth the price of bringing you up here to Battle School because you don't have what it takes. Some of you might make it.  Some  of you might be worth something to humanity. But don't bet on it. I'm betting on only one."
+ Suddenly Graff did a backflip and caught the ladder with his hands, then swung his feet away from the ladder. Doing a handstand, if the floor was down. Dangling by his hands, if the floor was up. Hand over hand he swung himself back along the aisle to his seat.
+ "Looks like  you've  got it made here," whispered the boy next to him.
+ Ender shook his head.
+ "Oh, won't even talk to me?" the boy said.
+ "I didn't ask him to say that stuff," Ender whispered.
+ He felt a sharp pain on the top of his head. Then again. Some giggles from behind him. The boy in the next seat back must have unfastened his straps. Again a blow to the head. Go away, Ender thought. I didn't do anything to you.
+ Again a blow to the head. Laughter from the boys. Didn't Graff see this? Wasn't he going to stop it? Another blow. Harder. It really hurt. Where was Graff?
+ Then it became clear. Graff had deliberately caused it. It was worse than the abuse in the shows. When the sergeant picked on you, the others liked you better. But when the officer prefers you, the others hate you.
+ "Hey, fart-eater," came the whisper from behind him. He was hit in the head again. "Do you like this? Hey, super-brain, this is fun?" Another blow, this one so hard that Ender cried out softly with the pain.
+ If Graff was setting him up, there'd be no help unless he helped himself. He waited until he thought another blow was about to come. Now, he thought. And yes, the blow was there. It hurt, but Ender was already trying to sense the coming of the next blow. Now. And yes, right on time. I've got you, Ender thought.
+ Just as the next blow was coming, Ender reached up with both hands, snatched the boy by the wrist, and then pulled down on the arm, hard.
+ In gravity, the boy would have been jammed against Ender's seat back, hurting his chest. In null gravity, however, he flipped over the seat completely, up toward the ceiling. Ender wasn't expecting it. He hadn't realized how null gravity magnified even a child's strength. The boy sailed through the air, bouncing against the ceiling, then down against another boy in his seat, then out into the aisle, his arms flailing until he screamed as his body slammed into the bulkhead at the front of the compartment, his left arm twisted under him.
+ It took only seconds. Graff was already there, snatching the boy out of the air. Deftly he propelled him down the aisle toward the other man. "Left arm. Broken. I think," he said. In moments the boy had been given a drug and lay quietly in the air as the officer ballooned a splint around his arm.
+ Ender felt sick. He had only meant to catch the boy's arm. No. No, he had meant to hurt him, and had pulled with all his strength. He hadn't meant it to be so public, but the boy was feeling exactly the pain Ender had meant him to feel. Null gravity had betrayed him, that was all. I am Peter. I'm just like him. And Ender hated himself.
+ Graff stayed at the front of the cabin. "What are you, slow learners? In your feeble little minds, haven't you picked up one little fact? You were brought here to be  soldiers . In your old schools, in your old families, maybe you were the big shot, maybe you were tough, maybe you were smart. But we chose the best of the best, and that's the only kind of kid you're going to meet now. And when I tell you Ender Wiggin is the best in this launch, take the hint, pinheads. Don't mess with him. Little boys have died in Battle School before. Do I make myself clear?"
+ There was silence the rest of the launch. The boy sitting next to Ender was scrupulously careful not to touch him.
+ I am not a killer, Ender said to himself over and over. I am not Peter. No matter what he says, I wouldn't. I'm not. I was defending myself. I bore it a long time. I was patient. I'm not what he said.
+ A voice over the speaker told them they were approaching the school; it took twenty minutes to decelerate and dock. Ender lagged behind the others.
+ They were not unwilling to let him be the last to leave the shuttle, climbing upward in the direction that had been down when they embarked. Graff was waiting at the end of the narrow tube that led from the shuttle into the heart of the Battle School.
+ "Was it a good flight, Ender?" Graff asked cheerfully.
+ "I thought you were my friend." Despite himself, Ender's voice trembled.
+ Graff looked puzzled. "Whatever gave you that idea, Ender?"
+ "Because you--" Because you spoke nicely to me, and honestly. "You didn't lie."
+ "I won't lie now, either," said Graff. "My job isn't to be friends. My job is to produce the best soldiers in the world. In the whole history of the world. We need a Napoleon. An Alexander. Except that Napoleon lost in the end, and Alexander flamed out and died young. We need a Julius Caesar, except that he made himself dictator, and died for it. My job is to produce such a creature, and all the men and women he'll need to help him. Nowhere in that does it say I have to make friends with children."
+ "You made them hate me."
+ "So? What will you do about it? Crawl into a corner? Start kissing their little backsides so they'll love you again? There's only one thing that will make them stop hating you. And that's being so good at what you do that they can't ignore you. I told them you were the best. Now you damn well better be."
+ "What if I can't?"
+ "Then too bad. Look, Ender. I'm sorry if you're lonely and afraid. But the buggers are out there. Ten billion, a hundred billion, a million billion of them, for all we know. With as many ships, for all we know. With weapons we can't understand. And a willingness to use those weapons to wipe us out. It isn't the world at stake, Ender. Just us. Just humankind. As far as the rest of the earth is concerned, we could be wiped out and it would adjust, it would get on with the next step in evolution. But humanity doesn't want to die. As a species, we have evolved to survive. And the way we do it is by straining and straining and, at last, every few generations, giving birth to genius. The one who invents the wheel. And light. And flight. The one who builds a city, a nation, an empire. Do you understand any of this?"
+ Ender thought he did, but wasn't sure, and so said nothing.
+ "No. Of course not. So I'll put it bluntly. Human beings are free except when humanity needs them. Maybe humanity needs you. To do something. Maybe humanity needs  me -- to find out what you're good for. We might both do despicable things, Ender, but if humankind survives, then we were good tools."
+ "Is that all? Just tools?"
+ "Individual human beings are all tools, that the others use to help us all survive."
+ "That's a lie."
+ "No. It's just a half truth. You can worry about the other half after we win this war."
+ "It'll be over before I grow up," Ender said.
+ "I hope you're wrong," said Grail. "By the way, you aren't helping yourself at all, talking to me. The other boys are no doubt telling each other that old Ender Wiggin is back there licking up to Graff. If word once gets around that you're a teachers' boy, you're iced for sure."
+ In other words, go away and leave me alone. "Goodbye," Ender said. He pulled himself hand over hand along the tube where the other boys had gone.
+ Graff watched him go.
+ One of the teachers near him said, "Is that the one?"
+ "God knows," said Graff. "If it isn't Ender, then he'd better show up soon."
+ "Maybe it's nobody," said the teacher.
+ "Maybe. But if that's the case, Anderson, then in my opinion God is a bugger. You can quote me on that."
+ "I will."
+ They stood in silence a while longer.
+ "Anderson."
+ "Mmm."
+ "The kid's wrong. I  am  his friend."
+ "I know."
+ "He's clean. Right to the heart, he's good."
+ "I've read the reports."
+ "Anderson, think what we're going to do to him."
+ Anderson was defiant. "We're going to make him the best military commander in history."
+ "And then put the fate of the world on his shoulders. For his sake, I hope it isn't him. I do."
+ "Cheer up. The buggers may kill us all before he graduates."
+ Graff smiled. "You're right. I feel better already."
+
+
+
+
