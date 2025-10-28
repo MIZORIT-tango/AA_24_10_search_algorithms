@@ -6,7 +6,7 @@
 #include "../search_race.h"
 #include "../utils.h"
 
-SearchResult sequential_search(const std::string& file_path, const std::string& target_word) {
+SearchResult sequential_search_by_Litvinov(const std::string& file_path, const std::string& target_word) {
     SearchResult result;
     result.found = false;
     result.indices = {};
