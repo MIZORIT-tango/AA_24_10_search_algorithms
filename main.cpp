@@ -107,9 +107,9 @@ int main() {
         {"KMP_best", "datasets/KMP_best.txt", "ABCDE"},
         {"KMP_worst", "datasets/KMP_worst.txt", "AAAAB"},
 
-        {"KMP_average", "datasets/KMP_average.txt", "ABCABD"},
-        {"KMP_best", "datasets/KMP_best.txt", "ABCDE"},
-        {"KMP_worst", "datasets/KMP_worst.txt", "AAAAB"},
+        {"large_linear_average_case", "datasets/large_linear_average_case.txt", "target"},
+        {"large_linear_best_case", "datasets/large_linear_best_case.txt", "target"},
+        {"large_linear_worst_case", "datasets/large_linear_worst_case.txt", "target"},
 
         {"worst_fuzzySearch", "datasets/worst_fuzzySearch.txt", "hello_worldhello_worldhello_worldhello_worldhello_worldhello_worldhello_worldhello_worldhello_world"},
         {"best_fuzzySearch", "datasets/best_fuzzySearch.txt", "hello"},
