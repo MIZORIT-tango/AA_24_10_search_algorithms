@@ -96,7 +96,7 @@ int main() {
     // add datasets files here, structure: 0)name_file 1)path_to_file 2)target
     vector<TextSearchTest> tests = {
         {"Average_Boyer_Moore", "datasets/Average_Boyer_Moore.txt", "ABC"},
-        {"Best_Boyer_Moore", "datasets/Best_Boyer_Moore.txt", "pattern"},
+        {"Best_Boyer_Moore", "datasets/Best_Boyer_Moore.txt", "PAT"},
         {"Worst_Boyer_Moore", "datasets/Worst_Boyer_Moore.txt", "ABC"},
 
         {"average_rabina_karpa_by_avadaev", "datasets/average_rabina_karpa_by_avadaev.txt", "brown"},
@@ -111,9 +111,9 @@ int main() {
         {"KMP_best", "datasets/KMP_best.txt", "ABCDE"},
         {"KMP_worst", "datasets/KMP_worst.txt", "AAAAB"},
 
-        {"worst_fuzzySearch", "datasets/worst_fuzzySearch.txt", "hello_world"},
-        {"best_fuzzySearch", "datasets/best_fuzzySearch.txt", "hello_world"},
-        {"average_fuzzySearch", "datasets/average_fuzzySearch.txt", "hello_world"},
+        {"worst_fuzzySearch", "datasets/worst_fuzzySearch.txt", "hello_worldhello_worldhello_worldhello_worldhello_worldhello_worldhello_worldhello_worldhello_world"},
+        {"best_fuzzySearch", "datasets/best_fuzzySearch.txt", "hello"},
+        {"average_fuzzySearch", "datasets/average_fuzzySearch.txt", "hello_worldhello_worldhello_world"},
 
         //{"small", "datasets/small.txt", "the"},
         //{"book1", "datasets/book1.txt", "scripts"},
