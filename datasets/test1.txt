@@ -1,3 +1,5 @@
-This is a test file for Rabin_Karpa algorithm testing.
-ABC pattern should be found at certain positions.
-ABC again ABC and one more ABC.
+"Data structures and algorithms are fundamental to computer science. 
+The quick brown fox jumps over the lazy dog while implementing 
+various sorting algorithms like quicksort and mergesort. 
+Understanding algorithms helps in solving complex problems efficiently.
+"
