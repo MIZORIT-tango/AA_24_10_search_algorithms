@@ -111,6 +111,10 @@ int main() {
         {"KMP_best", "datasets/KMP_best.txt", "ABCDE"},
         {"KMP_worst", "datasets/KMP_worst.txt", "AAAAB"},
 
+        {"worst_fuzzySearch", "datasets/worst_fuzzySearch.txt", "hello_world"},
+        {"best_fuzzySearch", "datasets/best_fuzzySearch.txt", "hello_world"},
+        {"average_fuzzySearch", "datasets/average_fuzzySearch.txt", "hello_world"},
+
         //{"small", "datasets/small.txt", "the"},
         //{"book1", "datasets/book1.txt", "scripts"},
         //{"book2", "datasets/book2.txt", "headlights"},
