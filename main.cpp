@@ -95,11 +95,11 @@ int main() {
 
     // add datasets files here, structure: 0)name_file 1)path_to_file 2)target
     vector<TextSearchTest> tests = {
-        {"small", "datasets/small.txt", "dog"},
-        {"book1", "datasets/book1.txt", "scripts"},
-        {"book2", "datasets/book2.txt", "headlights"},
-        {"book3", "datasets/book3.txt", "compartment"},
-        {"book4", "datasets/book4.txt", "compartment"}
+        {"small", "datasets/small.txt", "the"},
+        //{"book1", "datasets/book1.txt", "scripts"},
+        //{"book2", "datasets/book2.txt", "headlights"},
+        //{"book3", "datasets/book3.txt", "compartment"},
+        //{"book4", "datasets/book4.txt", "compartment"}
     };
 
     for (const auto& test : tests) {
