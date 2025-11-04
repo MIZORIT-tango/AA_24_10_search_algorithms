@@ -1,0 +1,9 @@
+The quick brown fox jumps over the lazy dog several times in the sunny meadow, but there is nothing unusual about it.
+Each sentence in this text is completely unique and carefully crafted to avoid any repetition or recurring substring patterns.
+This makes it ideal for testing the best-case scenario of the Rabin-Karp algorithm, where hash mismatches occur almost immediately.
+In this way, the algorithm performs minimal comparisons and quickly determines that the pattern is not present.
+As the sentences vary in structure, length, and vocabulary, every hash window will produce a different value, ensuring optimal efficiency.
+This ensures the pattern matching process terminates early and the performance remains linear in complexity.
+For example, if we search for a phrase like “pattern not found,” the algorithm will compute a few hash mismatches and stop instantly.
+This behavior represents the ideal performance condition for Rabin-Karp when no false matches occur and no substring even partially matches.
+Overall, this text maintains diversity in its word and character combinations, offering a perfectly distinct set of substrings.
