@@ -95,7 +95,23 @@ int main() {
 
     // add datasets files here, structure: 0)name_file 1)path_to_file 2)target
     vector<TextSearchTest> tests = {
-        {"small", "datasets/small.txt", "the"},
+        {"Average_Boyer_Moore", "datasets/Average_Boyer_Moore.txt", "ABC"},
+        {"Best_Boyer_Moore", "datasets/Best_Boyer_Moore.txt", "pattern"},
+        {"Worst_Boyer_Moore", "datasets/Worst_Boyer_Moore.txt", "ABC"},
+
+        {"average_rabina_karpa_by_avadaev", "datasets/average_rabina_karpa_by_avadaev.txt", "brown"},
+        {"best_rabina_karpa_by_avadaev", "datasets/best_rabina_karpa_by_avadaev.txt", "pattern"},
+        {"worst_rabina_karpa_by_avadaev", "datasets/worst_rabina_karpa_by_avadaev.txt", "aaaaaaaaaaaa"},
+
+        {"KMP_average", "datasets/KMP_average.txt", "ABCABD"},
+        {"KMP_best", "datasets/KMP_best.txt", "ABCDE"},
+        {"KMP_worst", "datasets/KMP_worst.txt", "AAAAB"},
+
+        {"KMP_average", "datasets/KMP_average.txt", "ABCABD"},
+        {"KMP_best", "datasets/KMP_best.txt", "ABCDE"},
+        {"KMP_worst", "datasets/KMP_worst.txt", "AAAAB"},
+
+        //{"small", "datasets/small.txt", "the"},
         //{"book1", "datasets/book1.txt", "scripts"},
         //{"book2", "datasets/book2.txt", "headlights"},
         //{"book3", "datasets/book3.txt", "compartment"},
