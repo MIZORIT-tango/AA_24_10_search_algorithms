@@ -1,0 +1,8 @@
+In a typical text, there are several repeated words and fragments that might partially match the searched pattern.
+The Rabin-Karp algorithm, when applied to such text, may experience several hash collisions before confirming a real match.
+This represents the average performance scenario where a balance exists between mismatches and occasional verifications.pattern
+For example, many English texts include recurring articles like “the,” “and,” “of,” or similar substrings that can generate identical hash values.
+Although these small overlaps cause minor slowdowns, the algorithm remains efficient overall, still performing better than a naive search in most cases.
+This document intentionally includes repeated words, similar sentence structures, and recurring phrases such as pattern, pattern, and pattern again.
+Each section adds slight redundancy, producing realistic text characteristics while still preserving coherence.
+Hence, this is a balanced medium-sized text useful for testing average conditions of Rabin-Karp pattern matching performance.
